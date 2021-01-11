@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+}
+
+:root {
+  font-family: 'Raleway', sans-serif !important;
+  background-color: #cceeff;
+}
+
+.image {
+  width: 250px;
+  height: 300px;
+}
+
+
+
+
+.App-link {
+  color: #61dafb;
+}
